@@ -1,0 +1,8 @@
+# Ignore backup files & folders:
+project_symbols.bak
+Xurao-α-backups
+
+# Ignore Library Import Files:
+fp-info-cache
+fp-lib-table
+sym-lib-table
